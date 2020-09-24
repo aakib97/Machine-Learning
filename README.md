@@ -12,3 +12,9 @@ Machine Learning models created for learning as part of a class in my undergradu
 * Scikit Learn
 * Tensorflow
 * Keras
+
+## Models
+* Regression
+* Neural Network
+* Pre-trained Networks
+* Nature Language Processing
