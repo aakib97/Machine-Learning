@@ -1,9 +1,8 @@
 # Machine-Learning
 
-## Developer
-#### Aakib Shaikh
-
 Machine Learning models created for learning as part of a class in my undergraduate studies
+
+## Developer: Aakib Shaikh
 
 ## Technologies used
 * Python
